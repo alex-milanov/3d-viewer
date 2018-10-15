@@ -1,0 +1,37 @@
+
+
+#ui
+	user-select: none
+	position: absolute
+	top: 0px
+	left: 0px
+	width: 100%
+	height: 100%
+	background: #000
+	color: #eee
+	overflow: hidden
+	header, footer
+		position: absolute
+		left: 0px
+		+header-height(64px)
+		width: 100%
+		text-align: center
+		> *
+			+header-height(64px)
+			margin: 0px 3px
+		z-index: 100
+		background: rgba(16, 16, 16, 0.7)
+		a
+			color: #aaa
+	header
+		top: 0px
+	footer
+		bottom: 0px
+	#view3d
+		position: absolute
+		top: 0px
+		left: 0px
+		width: 100%
+		height: 100%
+		overflow: hidden
+	@import 'controls'

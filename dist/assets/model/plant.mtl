@@ -1,0 +1,56 @@
+# Blender MTL File: 'plant.blend'
+# Material Count: 5
+
+newmtl Terra
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexem/Downloads/46902_Interior_Plant_with_Flowerpot/textures/TerraVaso.jpg
+
+newmtl Terra_TerraVaso.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexem/Downloads/46902_Interior_Plant_with_Flowerpot/textures/TerraVaso.jpg
+
+newmtl Tronco
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexem/Downloads/46902_Interior_Plant_with_Flowerpot/textures/TroncoUnwrap.jpg
+
+newmtl Tronco_TextureTronco
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /Users/alexem/Downloads/46902_Interior_Plant_with_Flowerpot/textures/TroncoUnwrap.jpg
+
+newmtl Vaso
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.261094 0.125485 0.047117
+Ks 0.500000 0.285469 0.181601
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
